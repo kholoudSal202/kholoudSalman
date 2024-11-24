@@ -1,0 +1,14 @@
+C:\Users\kholo\OneDrive\سطح المكتب\loop\bin\Debug\net8.0\loop.exe
+C:\Users\kholo\OneDrive\سطح المكتب\loop\bin\Debug\net8.0\loop.deps.json
+C:\Users\kholo\OneDrive\سطح المكتب\loop\bin\Debug\net8.0\loop.runtimeconfig.json
+C:\Users\kholo\OneDrive\سطح المكتب\loop\bin\Debug\net8.0\loop.dll
+C:\Users\kholo\OneDrive\سطح المكتب\loop\bin\Debug\net8.0\loop.pdb
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.AssemblyInfoInputs.cache
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.AssemblyInfo.cs
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.csproj.CoreCompileInputs.cache
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.dll
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\refint\loop.dll
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.pdb
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\loop.genruntimeconfig.cache
+C:\Users\kholo\OneDrive\سطح المكتب\loop\obj\Debug\net8.0\ref\loop.dll
